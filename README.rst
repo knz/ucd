@@ -9,6 +9,7 @@ their standard name in various formats:
 - ``ucd.h``: C/C++ header file, with preprocessor macro definitions
 - ``ucd.py``: Python module
 
+The data is converted from the official Unicode Character Database (http://www.unicode.org/ucd/).
 See the ``tables`` subdirectory for the generated files.
 
 You can use the Python module as follows:
